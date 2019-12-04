@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87d6fcb3-c309-45c0-ae11-0b68c0a123d5" name="Default Changelist" comment="" />
+    <list default="true" id="87d6fcb3-c309-45c0-ae11-0b68c0a123d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StateSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StateSquare.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +19,36 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
   <component name="ProjectId" id="1UQ7MIn2AYhgHTaxS1kLcXgUHyY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="batailleNavale" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,6 +76,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575472964570">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="184" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.847@0.23.1440.847" timestamp="1575472964570" />
+    <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1575470833362">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.847@0.23.1440.847" timestamp="1575470833362" />
+    <state x="457" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575472932831">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="457" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.847@0.23.1440.847" timestamp="1575472932831" />
+    <state x="474" y="218" key="EnvironmentVariablesDialog" timestamp="1575472955569">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="474" y="218" key="EnvironmentVariablesDialog/0.23.1440.847@0.23.1440.847" timestamp="1575472955569" />
+    <state width="1358" height="207" key="GridCell.Tab.0.bottom" timestamp="1575473083763">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state width="1358" height="207" key="GridCell.Tab.0.bottom/0.23.1440.847@0.23.1440.847" timestamp="1575473083763" />
+    <state width="1358" height="207" key="GridCell.Tab.0.center" timestamp="1575473083762">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state width="1358" height="207" key="GridCell.Tab.0.center/0.23.1440.847@0.23.1440.847" timestamp="1575473083762" />
+    <state width="1358" height="207" key="GridCell.Tab.0.left" timestamp="1575473083761">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state width="1358" height="207" key="GridCell.Tab.0.left/0.23.1440.847@0.23.1440.847" timestamp="1575473083761" />
+    <state width="1358" height="207" key="GridCell.Tab.0.right" timestamp="1575473083762">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state width="1358" height="207" key="GridCell.Tab.0.right/0.23.1440.847@0.23.1440.847" timestamp="1575473083762" />
+    <state x="499" y="180" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575464775008">
+      <screen x="0" y="23" width="1440" height="847" />
+    </state>
+    <state x="499" y="180" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.847@0.23.1440.847" timestamp="1575464775008" />
     <state x="385" y="194" width="670" height="676" key="search.everywhere.popup" timestamp="1575292641968">
       <screen x="0" y="23" width="1440" height="847" />
     </state>
